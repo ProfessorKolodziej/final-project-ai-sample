@@ -1,0 +1,26 @@
+[
+	{
+		"name": "KK",
+		"type": "dog",
+		"breed": "Chihuahua",
+		"image": "../images/kk.jpg"
+	},
+	{
+		"name": "RC",
+		"type": "cat",
+		"breed": "Domestic Shorthair",
+		"image": "../images/kk.jpg"
+	},
+	{
+		"name": "Alvin",
+		"type": "rabbit",
+		"breed": "Flemish Giant Mix",
+		"image": "../images/kk.jpg"
+	},
+	{
+		"name": "Izzy",
+		"type": "cat",
+		"breed": "Domestic Shorthair",
+		"image": "../images/kk.jpg"
+	}
+]
