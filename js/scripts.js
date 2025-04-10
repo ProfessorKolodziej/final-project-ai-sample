@@ -39,7 +39,7 @@ function getRandomArbitrary(min, max) {
 
 
 function showRandomPet() {
-	fetch("../js/pets.json")
+	fetch("js/pets.json")
 		.then(response => response.json())
 		.then(data => {
 			const totalPets = data.length;
